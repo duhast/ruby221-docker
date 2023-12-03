@@ -1,6 +1,6 @@
 # Ruby 2.2.1 container
 
-Ruby 2.2.1 built on Ubuntu 18.04.
+[Ruby 2.2.1](https://www.ruby-lang.org/en/news/2015/03/03/ruby-2-2-1-released/) built on Ubuntu 18.04.
 Image available at Docker Hub: https://hub.docker.com/r/duhast/ruby-2.2.1
 
 Heavily inspired by the official [Ruby container](https://github.com/docker-library/ruby)
